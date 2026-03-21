@@ -1,0 +1,96 @@
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\SamochodyProject.csproj.AssemblyReference.cache
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\App.g.cs
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\SamochodyProject_MarkupCompile.cache
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\SamochodyProject_MarkupCompile.lref
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\SamochodyProject.exe
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\SamochodyProject.deps.json
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\SamochodyProject.runtimeconfig.json
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\SamochodyProject.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\SamochodyProject.pdb
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\CommunityToolkit.Mvvm.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\DnsClient.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\Xceed.Wpf.AvalonDock.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\Xceed.Wpf.Toolkit.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\MongoDB.Bson.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\MongoDB.Driver.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\SharpCompress.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\Snappier.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\ZstdSharp.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\MainWindow.baml
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\SamochodyProject.g.resources
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\SamochodyProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\SamochodyProject.AssemblyInfoInputs.cache
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\SamochodyProject.AssemblyInfo.cs
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\SamochodyProject.csproj.CoreCompileInputs.cache
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\Samochod.7496E442.Up2Date
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\SamochodyProject.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\refint\SamochodyProject.dll
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\SamochodyProject.pdb
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\SamochodyProject.genruntimeconfig.cache
+D:\Studia III rok\Semestr I\Bazy danych 2\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\ref\SamochodyProject.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\SamochodyProject.exe
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\SamochodyProject.deps.json
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\SamochodyProject.runtimeconfig.json
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\SamochodyProject.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\SamochodyProject.pdb
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\CommunityToolkit.Mvvm.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\DnsClient.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\Xceed.Wpf.AvalonDock.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\Xceed.Wpf.Toolkit.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\MongoDB.Bson.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\MongoDB.Driver.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\SharpCompress.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\Snappier.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\ZstdSharp.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\bin\Debug\net9.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\SamochodyProject.csproj.AssemblyReference.cache
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\App.g.cs
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\SamochodyProject_MarkupCompile.cache
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\SamochodyProject_MarkupCompile.lref
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\MainWindow.baml
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\SamochodyProject.g.resources
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\SamochodyProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\SamochodyProject.AssemblyInfoInputs.cache
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\SamochodyProject.AssemblyInfo.cs
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\SamochodyProject.csproj.CoreCompileInputs.cache
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\Samochod.7496E442.Up2Date
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\SamochodyProject.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\refint\SamochodyProject.dll
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\SamochodyProject.pdb
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\SamochodyProject.genruntimeconfig.cache
+D:\Private projects (for CV)\SamochodyProject\SamochodyProject\obj\Debug\net9.0-windows\ref\SamochodyProject.dll
