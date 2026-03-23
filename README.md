@@ -1,6 +1,6 @@
-# APLIKACJA Z OPERACJAMI CRUD W BAZIE DOKUMENTOWEJ
+# APLIKACJA Z OPERACJAMI CRUD W BAZIE DOKUMENTOWEJ 🪪
 
-## UWAGA!
+## UWAGA ‼️
 Żeby program mógł działać poprawnie, to należy stworzyć sobie w Dockerze lokalnie instancję bazy i podać w pliku "ModelCarsDB.cs" łańcuch połączenia (and. connection string), żeby aplikacja mogła operować na jakieś bazie danych.
 
 ## <ins>Problematyka
